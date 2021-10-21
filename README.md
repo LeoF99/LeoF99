@@ -4,11 +4,10 @@
 
 ## I'm a Software Engineer living in Brazil
 
-- 👨‍💻 I’m currently working at [Sanar](https://www.sanarmed.com/) as a Software Engineer.
-- 📚 I’m currently reading and lerarning about DDD (Domain Driven Development).
+- 👨‍💻 I’m currently working at [Sanar](https://www.sanarmed.com/) as a Mid Software Engineer.
 - 💪🏼 2021 Goals: Contribute to open source projects and level up my coding skills!
 - 🔭 I’m currently working with NodeJs and TypeScript.
-- 💬 Let's talk about software architecture and methodologies.
+- 💬 Let's talk about software architecture!
 
 ---
 
