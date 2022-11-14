@@ -5,9 +5,8 @@
 ## I'm a Software Engineer living in Brazil
 
 - 👨‍💻 I’m currently working at [Sanar](https://www.sanarmed.com/) as a Mid Software Engineer.
-- 💪🏼 2021 Goals: Contribute to open source projects and level up my coding skills!
 - 🔭 I’m currently working with NodeJs and TypeScript.
-- 💬 Let's talk about software architecture!
+- 💬 Let's talk about software architecture and best practices!
 
 ---
 
@@ -26,14 +25,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <br/>
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
----
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12151698278)
 
 ---
 
