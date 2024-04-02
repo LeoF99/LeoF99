@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer living in Brazil
 
-- 👨‍💻 I’m currently working at [Sanar](https://www.sanarmed.com/) as a Mid Software Engineer.
+- 👨‍💻 I’m currently working at [Sanar](https://www.sanarmed.com/) as a Backend Software Engineer.
 - 🔭 I’m currently working with NodeJs and TypeScript.
 - 💬 Let's talk about software architecture and best practices!
 
